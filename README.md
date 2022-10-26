@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EMWieczorek
-- 👀 I’m interested in data science, data mining, web developement, big data, data analytics, business intelligence
+- 👀 I’m interested in data science, data mining, web development, big data, data analytics, business intelligence
 - 🌱 I’m currently learning machine learning, python, r and django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on emiliomw@gmail.com
